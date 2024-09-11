@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Praneeth Dilshan</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 <img align = "right" alt="cording" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
